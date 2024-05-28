@@ -1,0 +1,14 @@
+{
+    "total_roles_to_create": 1,
+    "role_name": "test",
+    "total_channels_to_create": 100,
+    "channels_to_delete_at_once": 100,
+    "guild_name": "test",
+    "channel_name": "test",
+    "messages_per_channel": 3,
+    "guild_icon_url": "test",
+    "message_content": "test",
+    "bot_nickname": "test",
+    "bot_avatar_url": "test",
+    "bot_token": "test"
+}
